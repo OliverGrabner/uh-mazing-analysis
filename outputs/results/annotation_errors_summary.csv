@@ -1,0 +1,111 @@
+Sample_ID,Language,Error_Type,Token_Length,Token_Preview
+sw2005_B_2,CS,Long_Token,68," je to jedna z posledních věcí na světě, které bys kdy chtěl udělat "
+sw2005_B_2,DE,Long_Token,88," , es ist eines der letzten paar Dinge in der Welt, die du jemals wollen würdest zu tun "
+sw2005_B_2,DE,Long_Token,24, . Unless es ist einfach
+sw2005_B_4,DE,Long_Token,110,", oder, hatte t-, meine Mutter in ein Pflegeheim zu bringen. Sie hatte einen eher massiven Schlaganf..."
+sw2005_B_14,CS,Long_Token,83," při prověřování všech těch míst, která, ehm, by mohla být k dispozici. Samozřejmě "
+sw2005_A_19,DE,Long_Token,128," in meiner Familie, uh, meine Großmutter, sie musste in ein Pflegeheim getan werden und, um, sie hat..."
+sw2005_A_99,CS,Long_Token,100," myslím, že co jedna věc, která je pravděpodobně znepokojovala, byla skutečnost, že to nebylo nutně "
+sw2005_A_99,DE,Long_Token,101, one thing das sie sich wahrscheinlich Sorgen machten war die Tatsache es war nicht notwendigerweise...
+sw2005_A_99,ES,Long_Token,73," les preocupaba probablemente era el hecho de que no era necesariamente, "
+sw2005_A_147,CS,Long_Token,79," ehm, s mnoha mnoha lidmi, zejména tam, kde měli, ehm, rozšířenou rodinu. A já "
+sw2005_A_147,CS,Long_Token,90, bychom se mohli potřebovat jako přiblížit k rodinnému prostředí a a dostat se k hodnotám 
+sw2005_A_147,DE,Long_Token,105, wir könnten brauchen like nah zu kommen zur Familienumgebung and und runter zu kommen zu den Werten...
+sw2008_B_6,CS,Long_Token,73,", nosím obleky, nosím sukně a svetry. Při příležitosti můžu nosit džíny. "
+sw2008_B_6,DE,Long_Token,76,", ich trage Anzüge, Röcke und Pullover. Gelegentlich kann ich Jeans tragen. "
+sw2010_B_22,CS,Long_Token,46," to nikam nedojde, že to bude jen nuda. Takže "
+sw2010_B_22,ES,Long_Token,73," no iba a llegar a ningún lado, que iba a ser un fracaso. Entonces, ello "
+sw2010_A_23,CS,Long_Token,54," občas přehánět, když mi někdo říká, že je to skvělé. "
+sw2010_A_23,ES,Long_Token,77, sobre-reaccionar ocasionalmente cuando alguien me dice que es tan genial. Y 
+sw2010_B_38,ES,Long_Token,66," no hay realmente ninguna, uh, sangre y tripas ni nada de eso. Es "
+sw2010_B_38,ES,Long_Token,76," es más suspenso. Um, la otra, EL SILENCIO DE LOS INOCENTES, es un poco una "
+sw2010_B_38,ES,Long_Token,48, si a alguien no le gusta ese tipo de cosas. Es 
+sw2010_B_50,CS,Long_Token,106," získal všechny druhy ocenění nebo ať to jen bylo v pořádku na kinech, myslím, že by byl šťastný. Pr..."
+sw2012_A_25,CS,Long_Token,281," o konspiračních teoriích CIA nebo čemkoli, by takové strany chtěly dělat bez vašeho vědomí. Takže e..."
+sw2012_A_61,CS,Long_Token,68,", že to byl nekontrolovaný přístup k tomu, kdo by měl ty informace. "
+sw2012_A_61,CS,Long_Token,54," řekli, že by ji poskytli pouze vybraným společnostem "
+sw2012_A_61,ES,Long_Token,57," decían que la darían solo a compañías selectas pero, um "
+sw2012_A_63,CS,Long_Token,131,"Bylo by to pirátské a stejně by se nikdo neobtěžoval to pečlivě kontrolovat u někoho, kdo nabízí, ví..."
+sw2012_A_87,CS,Long_Token,81,", lidé vám začnou věnovat velmi velkou pozornost a začnou se ptát a v tom smyslu "
+sw2012_A_87,CS,Long_Token,71,", narušují vaši soukromí, i když, pokud víte, jaké jsou sociální normy "
+sw2012_A_87,ES,Long_Token,74," invadiendo tu privacidad aunque, si sabes cuáles son las normas sociales "
+sw2012_B_98,IT,Long_Token,60,"ci sono altre cose specifiche che, che ti senti come, dove, "
+sw2012_A_99,ES,Long_Token,163,", lo cual es más intrusivo porque tengo que decirle realmente a alguien que se vaya. Y hay esa sensa..."
+sw2012_A_99,IT,Long_Token,56,"o i Mormoni o qualcuno che bussa alla porta d'ingresso, "
+sw2012_A_99,IT,Long_Token,161,", che è più invadente perché devo davvero dire a qualcuno di andarsene. E c'è quella sensazione di, ..."
+sw2015_B_18,ES,Long_Token,133, no puedes realmente detener a esas personas de venir alrededor incluso aunque ellos pongan señales ...
+sw2015_B_18,ES,Long_Token,56," pero ellos todavía llegan hasta la puerta principal y, "
+sw2015_B_18,ES,Long_Token,54, caminan alrededor. Así que usualmente lo que hago es 
+sw2015_B_18,ES,Long_Token,52, llamar al administrador del apartamento y decirles 
+sw2015_B_18,HI,Long_Token,115,", काफी पढ़ा है और मुझे वह खास तौर पर पसंद नहीं है, इसलिए मुझे बिल्कुल भी अच्छा नहीं लगता जब वे मेरे ..."
+sw2015_B_20,CS,Long_Token,63,", pokud se nesnaží mě do toho vtáhnout a zatáhnout mě do toho. "
+sw2015_B_20,CS,Long_Token,99,", je to jejich mise, že to dělají. Cházejí od domu k domu a jdou ven do veřejnosti a skutečně mají "
+sw2015_B_20,HI,Long_Token,67,"like* सेना में, और दो साल घूम-घूमकर मिशनरी तरह का काम करते हैं और, "
+sw2015_B_20,HI,Long_Token,71," वह एक बात है जिसके बारे में मैं बहुत मज़बूती से महसूस करता हूँ, यानी, "
+sw2015_B_20,HI,Long_Token,64," लोग मेरे दरवाज़े तक आना, और ख़ास तौर पर धार्मिक संगठन और चाहना "
+sw2015_B_22,CS,Long_Token,77,", já nemám bouřkové dveře, ale jsem si jistý, že bych mohl něco zařídit. Ale "
+sw2015_B_22,CS,Long_Token,60,"je to jako oni vidí to slovo a říká to jdi, místo zastavit. "
+sw2020_A_3,ES,Long_Token,108, tiendo a ser una de esas personas que cambia de estaciones mucho porque no me gustan los comerciale...
+sw2020_A_3,IT,Long_Token,108,tendo ad essere una di quelle persone che cambia spesso stazione perché non mi piacciono le pubblici...
+sw2020_B_20,ES,Long_Token,97," no tengo realmente nada en contra de la música rap. Yo, lo único que objetó sobre la música rap "
+sw2020_B_32,ES,Long_Token,55," acerca de cuarenta o cincuenta años. Y, fue increíble "
+sw2020_B_104,CS,Long_Token,34,"opravdu to není world music. Ale, "
+sw2020_B_104,HI,Long_Token,52, बहुत सारे अलग-अलग स्रोतों से आकर्षित करना और बनाना 
+sw2020_B_118,HI,Long_Token,69," उन गुणों को लेना, और फिर लागू करना, उन शैलियों में, that are really "
+sw2022_B_12,ES,Long_Token,59,", nuestro propio dinero para diversión y cosas así y luego "
+sw2022_B_12,HI,Long_Token,135," हर बार जब हम कुछ खर्च करते हैं, हम इसे किताब में लिखते हैं और महीने के अंत में हम इसे जोड़ते हैं यह..."
+sw2022_B_18,HI,Long_Token,61," अगर कुछ आ जाए और आप इसके भीतर नहीं रह पाएं तो हमारे पास, uh "
+sw2022_B_18,HI,Long_Token,55, like हम इसे अपनी स्लश फंड कहते हैं या कुछ और और some- 
+sw2022_A_21,AR,Long_Token,98, نحن نحاول أن، آه، نفعل ذلك هذا العام. لقد وضعنا في الميزانية المال الذي نحن كنّا نستخدم لإنفاق ، 
+sw2022_A_21,CS,Long_Token,55,", letos. Naplánovali jsme si do rozpočtu peníze, které "
+sw2022_A_39,AR,Long_Token,44, لقد قمنا بـ، آه، حساب CODA مع T I حيث هم ، 
+sw2022_A_39,IT,Long_Token,51,"abbiamo fatto il, eh, conto CODA con T I dove loro "
+sw2022_A_45,AR,Long_Token,100, آه، شركة جون هانكوك جاءت، وقام وكيلهم بعمل تحليل طويل المدى بناءً على الراتب و، آه، ما كنّا نخط- ، 
+sw2022_A_45,CS,Long_Token,92,", společnost John Hancock, a jejich agent provedl dlouhodobou analýzu založenou na platu a, "
+sw2022_A_45,HI,Long_Token,81," वह देखना वास्तव में अच्छा था, हमारे पास वित्तीय कंपनियों में से एक थी, अम, हैन- "
+sw2022_A_45,HI,Long_Token,103," अह, जॉन हैनकॉक कंपनी आई और उनके एजेंट ने वेतन के आधार पर दीर्घकालिक विश्लेषण किया और, अह, हम क्या य..."
+sw2022_A_45,IT,Long_Token,87,"che è stato davvero bello vedere, abbiamo avuto una delle società finanziarie, um, han-"
+sw2022_B_52,IT,Long_Token,64,"Sembra interessante, non abbiamo mai fatto niente-, abbiamo, sai"
+sw2022_B_52,IT,Long_Token,60,il nostro consulente per l’assicurazione sulla vita è venuto
+sw2022_B_54,IT,Long_Token,55,"se gli succedesse qualcosa, non resterei in Texas, io, "
+sw2024_B_4,FR,Long_Token,79,", n'étant pas natif du Texas, mais étant ici depuis onze ans, j'ai tendance à, "
+sw2024_B_4,IT,Long_Token,66,"i miei piaceri di lettura sono piuttosto ampi. Um, mi entusiasma, "
+sw2024_B_4,IT,Long_Token,74,", non essendo un nativo del Texas, ma essendo qui da undici anni tendo a, "
+sw2024_B_8,AR,Long_Token,114, آه، بالتأكيد، إنه رائع بالطريقة التي تم تقسيمه بها ويمكنك، آه، تنظيم رحلات صغيرة ورحلات يومية وأشيا...
+sw2024_B_8,AR,Long_Token,84, ومجلات هندسة المصانع و، أقرأ عن طرق مختلفة للقيام بالأشياء ومجلات إدارة الطاقة و ، 
+sw2024_B_8,IT,Long_Token,147,", assolutamente, è fantastico il modo in cui è suddiviso e puoi, eh, organizzare piccoli viaggi e gi..."
+sw2024_B_8,IT,Long_Token,59,", le riviste. Non faccio un abbonamento o cose del genere. "
+sw2024_B_8,IT,Long_Token,63,", cose, oh, essendo un ingegnere nelle strutture leggo molto di"
+sw2024_B_8,IT,Long_Token,122,e riviste di ingegneria degli impianti e leggo sui diversi modi di fare le cose e sulle riviste di g...
+sw2024_A_15,IT,Long_Token,62,", in questo momento sto leggendo occasionalmente un libro su, "
+sw2024_A_35,AR,Long_Token,147, أعتقد ليس الكثير من الكتب على الرغم من أنها أحيانًا تحتوي على كتيبات وأشياء، لكن، آه، ستكون أشياء ع...
+sw2024_A_35,CS,Long_Token,81,"předpokládám, že ne tolik knih, i když někdy mívají manuály a podobné věci, ale, "
+sw2024_A_35,CS,Long_Token,56, jak být úspěšný a jak si tak nějak mluvit sám se sebou 
+sw2024_A_35,HI,Long_Token,168," मुझे लगता है किताबें इतनी नहीं हालाँकि उनके पास कभी-कभी मैनुअल और चीजें होती हैं, लेकिन, अह, वे चीज..."
+sw2027_A_7,HI,Long_Token,73, मैं वास्तव में इसका ध्यान रखने की कोशिश करता हूँ और जैसा कि आप कहते हैं 
+sw2027_A_7,IT,Long_Token,100,"anche noi siamo un po’ così. Cerco di, sono come te, cerco un po’ di giudicare giorno per giorno. So"
+sw2027_A_7,IT,Long_Token,99,dove sono lavoriamo molto con i clienti e abbiamo molti funzionari governativi che vengono sempre e
+sw2027_A_31,CS,Long_Token,76,"Myslím, že s tím měli loni v létě problém, nosili tyhle kraťasy, které byly "
+sw2027_A_65,AR,Long_Token,70, أنا كذلك. أعمل أسرع، أنجز الأمور أسرع، من عندما أكون في فستان وكعب ، 
+sw2027_A_65,AR,Long_Token,58, أستطيع أن أنجز الكثير أكثر إذا كنت مرتديًا ملابس مريحة ، 
+sw2027_A_65,CS,Long_Token,58," můžu toho udělat mnohem víc, když jsem oblečená pohodlně "
+sw2027_A_65,HI,Long_Token,71, मैं कहीं ज़्यादा काम निपटा सकती हूँ अगर मैंने आरामदायक कपड़े पहने हैं 
+sw2027_A_65,IT,Long_Token,114,"lo sono. Lavoro più velocemente, porto a termine le cose più velocemente, che quando indosso un vest..."
+sw2027_A_79,AR,Long_Token,52, أنت تعرف ، إذا دخلت مرتديًا بنطالًا، و أنا أبدًا ، 
+sw2027_A_79,AR,Long_Token,74, أنت تعرف. لكن سأدخل مرتديًا بنطالًا. أنا أعني اليوم كنت أرتدي زوجًا من ، 
+sw2027_A_79,AR,Long_Token,103, أنت تعرف ، لا أعرف إذا كانوا يفعلون أم لا. أنت تعرف ، أرى الكثير من المديرين وهم يرتدون الجينز، لذا...
+sw2027_A_79,CS,Long_Token,33,. Ale půjdu dovnitř v kalhotách. 
+sw2028_A_125,AR,Long_Token,258, بالاعتناء بـ آه، أنا في الواقع في قسم الهواء، ونحن نراقب، أم، أي شيء يخرج من مداخن، أو من مبنى، أو،...
+sw2028_A_125,CS,Long_Token,55,", cokoli, co vychází z komína, nebo z budovy, nebo, ehm"
+sw2028_A_125,CS,Long_Token,117,", mají obavy na pracovišti a my se o to staráme, ale v rámci našeho oddělení. Staráme se o všechno. ..."
+sw2028_A_125,ES,Long_Token,163,", sus preocupaciones estan en el lugar de trabajo y nosotros nos encargamos de eso, pero, dentro de ..."
+sw2028_A_147,CS,Long_Token,55,", cokoli, co vychází z komína, nebo z budovy, nebo, ehm"
+sw2028_A_147,CS,Long_Token,119,", mají obavy na pracovišti a my se o to staráme, ale v rámci našeho oddělení.  Staráme se o všechno...."
+sw2032_A_77,AR,Long_Token,54, أنا أحب رولينغ ستونز القديمة. لا أحب الأشياء الجديدة.
+sw2032_A_77,CS,Long_Token,30, bych si ho nekoupil. Protože 
+sw2032_A_77,FR,Long_Token,35, je ne l'achèterais pas. Parce que 
+sw2032_A_77,IT,Long_Token,88,"non lo comprerei. Perché vedi, quello che succede è, i vecchi, vedi co-, io mi piacciono"
+sw2032_A_135,AR,Long_Token,57, الثمانينيات يُطلق عليها، مثل السنوات التقدمية، أو الـ ، 
+sw2032_A_135,ZH,Long_Token,69," for disfluent tokens:
+
+所以，就好像，七十年代什么都没发生。所有事情都发生在六十年代，七十年代我不知道他们叫什么，"
